@@ -6,24 +6,24 @@ app.use(cors())
 
 const corn = {
           'mii':{
-                    'corn-name':'which mia hahahaha?',
-                     'corn-country':'USA Or Lebanon'
+                    'cornName':'which mia hahahaha?',
+                     'cornCountry':'USA Or Lebanon'
           },
           'riley':{
-                     'corn-name':'riley r',
-                     'corn-country':'USA'
+                     'cornName':'riley r',
+                     'cornCountry':'USA'
           },
           'val':{
-                    'corn-name':'valeria',
-                     'corn-country':'USA'
+                    'cornName':'valeria',
+                     'cornCountry':'USA'
           },
           'loli':{
-                    'corn-name':'lolita',
-                     'corn-country':'USSR'
+                    'cornName':'lolita',
+                     'cornCountry':'USSR'
           },
           'error':{
-                    'corn-name':'do they exist ?',
-                     'corn-country':'do they tho?'
+                    'cornName':'do they exist ?',
+                     'cornCountry':'do they tho?'
           }  
 }
 
